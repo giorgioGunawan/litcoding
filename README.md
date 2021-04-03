@@ -1,8 +1,6 @@
 # litcoding
 Started leetcoding and wanted to document. lit. 
 
-trying out:----
-
 Array
 
 - Two Sum - https://leetcode.com/problems/two-sum/
