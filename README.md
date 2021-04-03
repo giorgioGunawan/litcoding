@@ -1,7 +1,7 @@
 # litcoding
 Started leetcoding and wanted to document. lit. 
 ---
-Below is arranged in importance of topics.
+Arranged in descending order of importance (topics).
 ---
 
 Array
