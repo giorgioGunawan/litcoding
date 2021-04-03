@@ -1,6 +1,8 @@
 # litcoding
 Started leetcoding and wanted to document. lit. 
 ---
+Below is arranged in importance of topics.
+---
 
 Array
 - **Two Sum - https://leetcode.com/problems/two-sum/
@@ -13,81 +15,6 @@ Array
 - Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - 3Sum - https://leetcode.com/problems/3sum/
 - Container With Most Water - https://leetcode.com/problems/container-with-most-water/
-
----
-
-Binary
-
-- Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
-- Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
-- Counting Bits - https://leetcode.com/problems/counting-bits/
-- Missing Number - https://leetcode.com/problems/missing-number/
-- Reverse Bits - https://leetcode.com/problems/reverse-bits/
-
----
-
-Dynamic Programming
-
-- Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
-- Coin Change - https://leetcode.com/problems/coin-change/
-- Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
-- Longest Common Subsequence -
-- Word Break Problem - https://leetcode.com/problems/word-break/
-- Combination Sum - https://leetcode.com/problems/combination-sum-iv/
-- House Robber - https://leetcode.com/problems/house-robber/
-- House Robber II - https://leetcode.com/problems/house-robber-ii/
-- Decode Ways - https://leetcode.com/problems/decode-ways/
-- Unique Paths - https://leetcode.com/problems/unique-paths/
-- Jump Game - https://leetcode.com/problems/jump-game/
-
----
-
-Graph
-
-- Clone Graph - https://leetcode.com/problems/clone-graph/
-- Course Schedule - https://leetcode.com/problems/course-schedule/
-- Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
-- Number of Islands - https://leetcode.com/problems/number-of-islands/
-- Longest Consecutive Sequence - https://leetcode.com/problems/longest-consecutive-sequence/
-- Alien Dictionary (Leetcode Premium) - https://leetcode.com/problems/alien-dictionary/
-- Graph Valid Tree (Leetcode Premium) - https://leetcode.com/problems/graph-valid-tree/
-- Number of Connected Components in an Undirected Graph (Leetcode Premium) - https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
-
----
-
-Interval
-
-- Insert Interval - https://leetcode.com/problems/insert-interval/
-- Merge Intervals - https://leetcode.com/problems/merge-intervals/
-- Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/
-- Meeting Rooms (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms/
-- Meeting Rooms II (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms-ii/
-
----
-
-Linked List
-
-- **Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
-- Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
-- Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
-- Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
-- Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-- Reorder List - https://leetcode.com/problems/reorder-list/
-
----
-
-String
-
-- Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
-- Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
-- Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
-- Valid Anagram - https://leetcode.com/problems/valid-anagram/
-- Group Anagrams - https://leetcode.com/problems/group-anagrams/
-- Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
-- Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
-- Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
-- Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
-- Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
 
 ---
 
@@ -110,8 +37,83 @@ Tree
 
 ---
 
+Graph
+
+- Clone Graph - https://leetcode.com/problems/clone-graph/
+- Course Schedule - https://leetcode.com/problems/course-schedule/
+- Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
+- Number of Islands - https://leetcode.com/problems/number-of-islands/
+- Longest Consecutive Sequence - https://leetcode.com/problems/longest-consecutive-sequence/
+- Alien Dictionary (Leetcode Premium) - https://leetcode.com/problems/alien-dictionary/
+- Graph Valid Tree (Leetcode Premium) - https://leetcode.com/problems/graph-valid-tree/
+- Number of Connected Components in an Undirected Graph (Leetcode Premium) - https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+
+---
+
+String
+
+- Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
+- Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
+- Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
+- Valid Anagram - https://leetcode.com/problems/valid-anagram/
+- Group Anagrams - https://leetcode.com/problems/group-anagrams/
+- Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
+- Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
+- Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
+- Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
+- Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
+
+---
+
+Dynamic Programming
+
+- Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
+- Coin Change - https://leetcode.com/problems/coin-change/
+- Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
+- Longest Common Subsequence -
+- Word Break Problem - https://leetcode.com/problems/word-break/
+- Combination Sum - https://leetcode.com/problems/combination-sum-iv/
+- House Robber - https://leetcode.com/problems/house-robber/
+- House Robber II - https://leetcode.com/problems/house-robber-ii/
+- Decode Ways - https://leetcode.com/problems/decode-ways/
+- Unique Paths - https://leetcode.com/problems/unique-paths/
+- Jump Game - https://leetcode.com/problems/jump-game/
+
+---
+
+Linked List
+
+- **Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
+- Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
+- Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
+- Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
+- Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+- Reorder List - https://leetcode.com/problems/reorder-list/
+
+---
+
+Interval
+
+- Insert Interval - https://leetcode.com/problems/insert-interval/
+- Merge Intervals - https://leetcode.com/problems/merge-intervals/
+- Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/
+- Meeting Rooms (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms/
+- Meeting Rooms II (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms-ii/
+
+---
+
 Heap
 
 - Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
 - Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
+
+---
+
+Bit Manipulation
+
+- Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
+- Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
+- Counting Bits - https://leetcode.com/problems/counting-bits/
+- Missing Number - https://leetcode.com/problems/missing-number/
+- Reverse Bits - https://leetcode.com/problems/reverse-bits/
