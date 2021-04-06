@@ -15,6 +15,7 @@ Array
 - Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - 3Sum - https://leetcode.com/problems/3sum/
 - Container With Most Water - https://leetcode.com/problems/container-with-most-water/
+- Longest Consecutive Sequence - https://leetcode.com/problems/longest-consecutive-sequence/
 
 ---
 
@@ -43,7 +44,6 @@ Graph
 - Course Schedule - https://leetcode.com/problems/course-schedule/
 - Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
 - Number of Islands - https://leetcode.com/problems/number-of-islands/
-- Longest Consecutive Sequence - https://leetcode.com/problems/longest-consecutive-sequence/
 
 ---
 
