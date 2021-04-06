@@ -44,9 +44,6 @@ Graph
 - Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
 - Number of Islands - https://leetcode.com/problems/number-of-islands/
 - Longest Consecutive Sequence - https://leetcode.com/problems/longest-consecutive-sequence/
-- Alien Dictionary (Leetcode Premium) - https://leetcode.com/problems/alien-dictionary/
-- Graph Valid Tree (Leetcode Premium) - https://leetcode.com/problems/graph-valid-tree/
-- Number of Connected Components in an Undirected Graph (Leetcode Premium) - https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
 
 ---
 
@@ -61,7 +58,6 @@ String
 - Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
 - Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
 - Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
-- Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
 
 ---
 
@@ -97,8 +93,6 @@ Interval
 - Insert Interval - https://leetcode.com/problems/insert-interval/
 - Merge Intervals - https://leetcode.com/problems/merge-intervals/
 - Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/
-- Meeting Rooms (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms/
-- Meeting Rooms II (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms-ii/
 
 ---
 
