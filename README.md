@@ -47,7 +47,7 @@ Graph
 
 String
 
-- Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
+- **Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 - Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
 - Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
 - Valid Anagram - https://leetcode.com/problems/valid-anagram/
