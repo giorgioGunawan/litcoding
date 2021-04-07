@@ -61,22 +61,6 @@ String
 
 ---
 
-Dynamic Programming
-
-- Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
-- Coin Change - https://leetcode.com/problems/coin-change/
-- Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
-- Longest Common Subsequence -
-- Word Break Problem - https://leetcode.com/problems/word-break/
-- Combination Sum - https://leetcode.com/problems/combination-sum-iv/
-- House Robber - https://leetcode.com/problems/house-robber/
-- House Robber II - https://leetcode.com/problems/house-robber-ii/
-- Decode Ways - https://leetcode.com/problems/decode-ways/
-- Unique Paths - https://leetcode.com/problems/unique-paths/
-- Jump Game - https://leetcode.com/problems/jump-game/
-
----
-
 Linked List
 
 - **Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
@@ -85,14 +69,6 @@ Linked List
 - Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 - Reorder List - https://leetcode.com/problems/reorder-list/
-
----
-
-Interval
-
-- Insert Interval - https://leetcode.com/problems/insert-interval/
-- Merge Intervals - https://leetcode.com/problems/merge-intervals/
-- Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/
 
 ---
 
