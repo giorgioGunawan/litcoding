@@ -12,6 +12,8 @@ Array
 - **Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
 - **Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
 - **Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+
+Array Not Done
 - Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - 3Sum - https://leetcode.com/problems/3sum/
 - Container With Most Water - https://leetcode.com/problems/container-with-most-water/
@@ -20,14 +22,15 @@ Array
 ---
 
 Tree
-
 - **Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
 - **Same Tree - https://leetcode.com/problems/same-tree/
 - **Invert/Flip Binary Tree - https://leetcode.com/problems/invert-binary-tree/
 - **Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
 - **Subtree of Another Tree - https://leetcode.com/problems/subtree-of-another-tree/
-- Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 - **Validate Binary Search Tree - https://leetcode.com/problems/validate-binary-search-tree/
+
+Tree Not Done
+- Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 - Kth Smallest Element in a BST - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 - Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 - Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
@@ -38,6 +41,7 @@ Tree
 
 Graph
 
+Graph Not Done
 - Clone Graph - https://leetcode.com/problems/clone-graph/
 - Course Schedule - https://leetcode.com/problems/course-schedule/
 - Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
@@ -46,22 +50,24 @@ Graph
 ---
 
 String
-
 - **Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
-- Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
-- Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
 - **Valid Anagram - https://leetcode.com/problems/valid-anagram/
-- Group Anagrams - https://leetcode.com/problems/group-anagrams/
 - **Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
 - **Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
+
+String Not Done
+- Group Anagrams - https://leetcode.com/problems/group-anagrams/
+- Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
+- Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
 - Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
 - Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
 
 ---
 
 Linked List
-
 - **Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
+
+Linked List Not Done
 - Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
 - Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
@@ -71,7 +77,6 @@ Linked List
 ---
 
 Heap
-
 - Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
 - Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
