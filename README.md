@@ -1,6 +1,4 @@
 # litcoding
-Started leetcoding and wanted to document. lit. 
----
 Arranged in descending order of importance (topics).
 ---
 
