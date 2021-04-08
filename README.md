@@ -28,10 +28,10 @@ Tree
 - **Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
 - **Subtree of Another Tree - https://leetcode.com/problems/subtree-of-another-tree/
 - **Validate Binary Search Tree - https://leetcode.com/problems/validate-binary-search-tree/
+- **Kth Smallest Element in a BST - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 
 Tree Not Done
 - Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
-- Kth Smallest Element in a BST - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 - Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 - Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
 - Add and Search Word - https://leetcode.com/problems/add-and-search-word-data-structure-design/
