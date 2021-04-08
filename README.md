@@ -14,6 +14,8 @@ Array
 - **Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 
 Array Not Done
+- Game of Life https://leetcode.com/problems/game-of-life/
+- Rotate Image https://leetcode.com/problems/rotate-image/
 - Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - 3Sum - https://leetcode.com/problems/3sum/
 - Container With Most Water - https://leetcode.com/problems/container-with-most-water/
