@@ -34,8 +34,10 @@ Tree
 Tree Not Done
 - Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 - Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
-- Add and Search Word - https://leetcode.com/problems/add-and-search-word-data-structure-design/
 - Word Search II - https://leetcode.com/problems/word-search-ii/
+
+Tree Attempted But Not Completed
+- Add and Search Word - https://leetcode.com/problems/add-and-search-word-data-structure-design/
 
 ---
 
@@ -78,6 +80,5 @@ Linked List Not Done
 ---
 
 Heap
-- Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
 - Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
