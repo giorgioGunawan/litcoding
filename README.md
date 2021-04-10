@@ -31,6 +31,7 @@ Tree
 - **Validate Binary Search Tree - https://leetcode.com/problems/validate-binary-search-tree/
 - **Kth Smallest Element in a BST - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 - **Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
+- **Binary Tree In-Order Traversal - https://leetcode.com/problems/binary-tree-inorder-traversal/
 
 Tree Not Done
 - Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
