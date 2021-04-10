@@ -67,6 +67,9 @@ String Not Done
 
 ---
 
+String Permutation
+- **Permutation - https://leetcode.com/problems/permutations/
+---
 Linked List
 - **Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
 - **Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
