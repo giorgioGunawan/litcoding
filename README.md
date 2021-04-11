@@ -1,5 +1,41 @@
-# litcoding
-Arranged in descending order of importance (topics).
+The top 12 Interview Questions (Youtube):
+
+1. DFS
+2. BFS
+3. Matching Brackets/Parantheses
+4. Hash Tables / Hash Maps / Hash Sets
+5. Dynamic Programming, Memoing, Caching
+6. Variables - Manipulating Multiple Pointers e.g. Traversing a Linked List, Longest Palindromic String
+7. Reversing a Linked List - or also Detecting a Cycle in a Linked List, Detecting Duplicates in a Linked List.
+8. Sorting Fundamentals - Not necessarily how to implement but more of runtime complexity of each and how they fare against each other.
+9. Recursion - Whiteboard Programming this is difficult
+10. Custom Data Structures like suffix tree, heap, trie, linked list + hash map
+11. Object Oriented Programming - Designing X
+12. Binary Search - Very Fundamental, usually questions are hidden / not obvious
+---
+
+CTCI Top Things To Know:
+
+1. Linked Lists	
+2. BFS	
+3. Bit manipulation
+4. Trees
+5. Tries 
+6. Graphs	
+7. DFS	
+8. Memory (stack vs heap)
+9. Stacks 
+10. Queues	
+11. Binary Search	
+12. Recursion
+13. Heaps	
+14. MergeSort
+15. Dynamic Programming
+16. Vectors / Array Lists	
+17. Quick Sort	
+18. Big O Time & Space
+19. HashTable	
+
 ---
 
 Array
