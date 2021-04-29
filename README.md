@@ -71,12 +71,12 @@ Tree
 - **Binary Tree In-Order Traversal - https://leetcode.com/problems/binary-tree-inorder-traversal/
 
 Tree Not Done
-- Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 - Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 - Word Search II - https://leetcode.com/problems/word-search-ii/
 
 Tree Attempted But Not Completed
 - Add and Search Word - https://leetcode.com/problems/add-and-search-word-data-structure-design/
+- Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 
 ---
 
