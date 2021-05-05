@@ -95,9 +95,9 @@ String
 - **Valid Anagram - https://leetcode.com/problems/valid-anagram/
 - **Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
 - **Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
+- **Group Anagrams - https://leetcode.com/problems/group-anagrams/
 
 String Not Done
-- Group Anagrams - https://leetcode.com/problems/group-anagrams/
 - Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
 - Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
 - Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
