@@ -1,3 +1,8 @@
+Resource:
+https://yangshun.github.io/tech-interview-handbook/
+https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score
+
+---
 The top 12 Interview Questions (Youtube):
 
 1. DFS
