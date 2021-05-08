@@ -54,8 +54,6 @@ Array Not Done
 - Game of Life https://leetcode.com/problems/game-of-life/
 - Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - 3Sum - https://leetcode.com/problems/3sum/
-- Container With Most Water - https://leetcode.com/problems/container-with-most-water/
-- Longest Consecutive Sequence - https://leetcode.com/problems/longest-consecutive-sequence/
 
 ---
 
@@ -92,7 +90,6 @@ Graph
 Graph Not Done
 - Clone Graph - https://leetcode.com/problems/clone-graph/
 - Course Schedule - https://leetcode.com/problems/course-schedule/
-- Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
 - Number of Islands - https://leetcode.com/problems/number-of-islands/
 
 ---
@@ -111,10 +108,6 @@ String Not Done
 - Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
 - Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
 
----
-
-String Permutation
-- **Permutation - https://leetcode.com/problems/permutations/
 ---
 Linked List
 - **Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
@@ -170,14 +163,6 @@ Interval
 
 ---
 
-Math
-
-- Pow - https://leetcode.com/problems/powx-n/
-- Sqrt - https://leetcode.com/problems/sqrtx/
-- Integer to English Words - https://leetcode.com/problems/integer-to-english-words/
-
----
-
 Matrix
 
 - Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
@@ -201,6 +186,3 @@ Recursion
 Recursion Not Done
 
 - Subsets 2 - https://leetcode.com/problems/subsets-ii/
-
----
-
