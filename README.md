@@ -52,7 +52,6 @@ Array
 
 Array Not Done
 - Game of Life https://leetcode.com/problems/game-of-life/
-- Rotate Image https://leetcode.com/problems/rotate-image/
 - Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - 3Sum - https://leetcode.com/problems/3sum/
 - Container With Most Water - https://leetcode.com/problems/container-with-most-water/
@@ -68,16 +67,23 @@ Tree
 - **Subtree of Another Tree - https://leetcode.com/problems/subtree-of-another-tree/
 - **Validate Binary Search Tree - https://leetcode.com/problems/validate-binary-search-tree/
 - **Kth Smallest Element in a BST - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
-- **Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
 - **Binary Tree In-Order Traversal - https://leetcode.com/problems/binary-tree-inorder-traversal/
 
 Tree Not Done
 - Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
-- Word Search II - https://leetcode.com/problems/word-search-ii/
 
 Tree Attempted But Not Completed
-- Add and Search Word - https://leetcode.com/problems/add-and-search-word-data-structure-design/
 - Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+
+---
+
+Trie
+
+- **Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
+
+Trie Not Done
+- Add and Search Word - https://leetcode.com/problems/add-and-search-word-data-structure-design/
+- Word Search II - https://leetcode.com/problems/word-search-ii/
 
 ---
 
@@ -127,3 +133,74 @@ Linked List Not Done
 Heap
 - Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
 - Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
+
+---
+
+Bit Manipulation
+
+- Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
+- Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
+- Counting Bits - https://leetcode.com/problems/counting-bits/
+- Missing Number - https://leetcode.com/problems/missing-number/
+- Reverse Bits - https://leetcode.com/problems/reverse-bits/
+
+---
+
+DP
+
+- Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
+- Coin Change - https://leetcode.com/problems/coin-change/
+- Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
+- Longest Common Subsequence - https://leetcode.com/problems/longest-common-subsequence/
+- Word Break Problem - https://leetcode.com/problems/word-break/
+- Combination Sum - https://leetcode.com/problems/combination-sum-iv/
+- House Robber - https://leetcode.com/problems/house-robber/
+- House Robber II - https://leetcode.com/problems/house-robber-ii/
+- Decode Ways - https://leetcode.com/problems/decode-ways/
+- Unique Paths - https://leetcode.com/problems/unique-paths/
+- Jump Game - https://leetcode.com/problems/jump-game/
+
+---
+
+Interval
+
+- Insert Interval - https://leetcode.com/problems/insert-interval/
+- Merge Intervals - https://leetcode.com/problems/merge-intervals/
+- Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/
+
+---
+
+Math
+
+- Pow - https://leetcode.com/problems/powx-n/
+- Sqrt - https://leetcode.com/problems/sqrtx/
+- Integer to English Words - https://leetcode.com/problems/integer-to-english-words/
+
+---
+
+Matrix
+
+- Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
+- Spiral Matrix - https://leetcode.com/problems/spiral-matrix/
+- Rotate Image - https://leetcode.com/problems/rotate-image/
+- Word Search - https://leetcode.com/problems/word-search/
+
+---
+
+Permutation - Backtracking
+
+- **Permutation - https://leetcode.com/problems/permutations/
+- **Generate Parentheses - https://leetcode.com/problems/generate-parentheses/
+
+---
+
+Recursion
+
+- **Subsets - 
+
+Recursion Not Done
+
+- Subsets 2 - https://leetcode.com/problems/subsets-ii/
+
+---
+
