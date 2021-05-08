@@ -96,6 +96,7 @@ String
 - **Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
 - **Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
 - **Group Anagrams - https://leetcode.com/problems/group-anagrams/
+- **Generate Parantheses
 
 String Not Done
 - Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
